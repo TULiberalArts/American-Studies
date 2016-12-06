@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Home
+permalink: "/"
+layout: page
 ---
 <h1>>Who We Are & What Our Students Do</h1>
 
