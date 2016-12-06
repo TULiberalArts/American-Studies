@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: "/undergraduate/"
 layout: page
 ---
 
@@ -12,9 +12,9 @@ For more information, please see the [Undergraduate Bulletin](http://bulletin.te
 
 Minors take 6 courses in American Studies, at least 3 of which must be from three different American Studies core areas. Most students find a minor can be accommodated within their regular program.
 
-Minors in American Studies are particularly useful in journalism, business, education and those fields that are served by creative thinking that draws inspiration from more than one area. 
+Minors in American Studies are particularly useful in journalism, business, education and those fields that are served by creative thinking that draws inspiration from more than one area.
 
-	
+
 
 ## COURSES
 
@@ -426,4 +426,4 @@ Students who, because of special circumstances, are unable to take 4097 (formerl
 Course Attributes: WI
 Repeatability: This course may not be repeated for additional credits.
 
-For more information, visit the [College of Liberal Arts' website](libarts.temple.edu).
+For more information, visit the [College of Liberal Arts' website](https://liberalarts.temple.edu).
