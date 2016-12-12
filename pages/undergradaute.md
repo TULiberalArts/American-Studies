@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
+published: true
 ---
 
 ## CURRICULUM
@@ -13,7 +14,6 @@ For more information, please see the [Undergraduate Bulletin](http://bulletin.te
 Minors take 6 courses in American Studies, at least 3 of which must be from three different American Studies core areas. Most students find a minor can be accommodated within their regular program.
 
 Minors in American Studies are particularly useful in journalism, business, education and those fields that are served by creative thinking that draws inspiration from more than one area.
-
 
 
 ## COURSES
