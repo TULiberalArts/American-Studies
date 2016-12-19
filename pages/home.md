@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: page
+layout: home
 ---
 <h1>>Who We Are & What Our Students Do</h1>
 
