@@ -5,18 +5,24 @@ layout: page
 published: true
 ---
 
-## CURRICULUM
+## Curriculum
 
 For more information, please see the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/).
 
-## FOR MINORS
+## Academic Offerings
+
+-[Bachelor of Arts in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/ba-american-studies/)
+-[Minor in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
+-[Minor in Asian American Studies](Minor in Asian American Studies)
+
+## For Minors
 
 Minors take 6 courses in American Studies, at least 3 of which must be from three different American Studies core areas. Most students find a minor can be accommodated within their regular program.
 
 Minors in American Studies are particularly useful in journalism, business, education and those fields that are served by creative thinking that draws inspiration from more than one area.
 
 
-## COURSES
+## Courses
 
 - AMST 0801. Philadelphia Arts & Culture. 4 Credit Hours.
 
