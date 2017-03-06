@@ -2,6 +2,10 @@
 title: Home
 permalink: /
 layout: home
+feature: false
+feature-title: 
+feature-body: 
+feature-image: 
 published: true
 ---
 <h1>>Who We Are & What Our Students Do</h1>
