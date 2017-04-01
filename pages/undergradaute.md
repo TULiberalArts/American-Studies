@@ -11,9 +11,9 @@ American Studies is a broad-based interdisciplinary program that explores the ri
 
 ## Academic Offerings
 
-- [American Studies- Major](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/ba-american-studies/)
-- [American Studies- Minor](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
-- [Asian American Minor](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/asian-american-studies-minor/)
+- [Bachelor of Arts in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/ba-american-studies/)
+- [Minor in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
+- [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/asian-american-studies-minor/)
 
 ## Program Highlights
 
@@ -23,11 +23,6 @@ The program offers student internship opportunities and other hands-on kinds of 
 
 For more information, please see the [Undergraduate Bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/).
 
-## Academic Offerings
-
-- [Bachelor of Arts in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/ba-american-studies/)
-- [Minor in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
-- [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/asian-american-studies-minor/)
 
 ## For Minors
 
