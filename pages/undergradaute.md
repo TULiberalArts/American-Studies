@@ -4,10 +4,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 ---
-
-## Program Overview 
-
-American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance, and music. In American Studies, though, we do not treat these topics as discrete categories, but instead explore their relationships to each other. For instance, we look at ideas about race and class embedded in national symbols and ideas. Through a variety of courses and in a mix of different categories, American Studies provides students with a deep understanding of the many forces and ideas shaping America over a long sweep of time in any number of places, the East, the West, in the heartland and at the borders.
+American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance and music. In American Studies we do not treat these topics as discrete categories, but instead explore their relationships to each other. For instance, we look at ideas about race and class embedded in national symbols and ideas. Through a variety of courses and in a mix of different categories, American Studies provides students with a deep understanding of the many forces and ideas shaping America over a long sweep of time in any number of places, the East, the West, in the heartland and at the borders.
 
 ## Academic Offerings
 
@@ -17,7 +14,7 @@ American Studies is a broad-based interdisciplinary program that explores the ri
 
 ## Program Highlights
 
-The program offers student internship opportunities and other hands-on kinds of learning at a variety of cultural institutions in Philadelphia and the Delaware Valley. American Studies courses are challenging and thought-provoking and many of them are cross-listed with the Temple University Honors Program. The major program stresses development of reading, writing, and analytical skills that are necessary for successful careers in a range of professional fields.
+The program offers student internship opportunities and other hands-on kinds of learning at a variety of cultural institutions in Philadelphia and the Delaware Valley. American Studies courses are challenging and thought-provoking and many of them are cross-listed with the Temple University Honors Program. The major program stresses development of reading, writing and analytical skills that are necessary for successful careers in a range of professional fields.
 
 ## Curriculum
 
