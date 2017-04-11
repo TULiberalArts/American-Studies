@@ -4,7 +4,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-American Studies stresses the development of advanced-level reading, writing, and analytical skills that are necessary for successful careers in various fields. Over our forty-year history, people who have majored or minored in American Studies have gone on to business, medical, law, journalism, museum, civic, teaching and publishing careers. Our majors go on to graduate school in the humanities and social sciences, law school and medical school. They also may take jobs in schools, non-profit organizations, museums, libraries, business, social services, public relations and the media. Our alumni tell us how valuable their American Studies educations continue to be and say that the knowledge and skills they learned with our faculty were instrumental when starting their careers.
+American Studies stresses the development of advanced-level reading, writing, and analytical skills that are necessary for successful careers in various fields. Over our forty-year history, people who have majored or minored in American Studies have gone on to business, medical, law, journalism, museum, civic, teaching and publishing careers. Our majors complete graduate school in the humanities and social sciences, law school and medical school. They take jobs and internships in schools, non-profit organizations, museums, libraries, business, social services, public relations and the media. Our alumni tell us how valuable their American Studies educations continue to be and say that the knowledge and skills they learned with our faculty were instrumental when starting their careers.
 
 ## Make Your Declaration
 
