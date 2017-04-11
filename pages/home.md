@@ -5,9 +5,9 @@ layout: home
 feature: true
 feature-title: Study Where it All Began
 feature-body: >-
-  Where better to study America than its birthplace? You will explore the rich
-  complexity of American culture while honing the critical thinking, writing,
-  and analytical skills necessary for any job. This is a broad-based
+  Where better to study America than its birthplace? Our students explore the
+  rich complexity of American culture while honing the critical thinking,
+  writing, and analytical skills necessary for any job. This is a broad-based
   interdisciplinary program that utilizes some of our best English and History
   faculty, making it the perfect major for someone with interest in both.
 feature-image: media/hero_bg.png
