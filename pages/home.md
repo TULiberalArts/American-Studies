@@ -10,7 +10,7 @@ feature-body: >-
   writing and analytical skills necessary for any job. This is a broad-based
   interdisciplinary program that utilizes some of our best English and History
   faculty, making it the perfect major for someone with interest in both.
-feature-image: hero_bg.png
+feature-image: media/hero_bg@2x.png
 published: true
 ---
 
