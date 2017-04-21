@@ -4,7 +4,9 @@ permalink: /undergraduate/
 layout: page
 published: true
 ---
-American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance and music. In American Studies we do not treat these topics as discrete categories, but instead explore their relationships to each other. For instance, we look at ideas about race and class embedded in national symbols and ideas. Through a variety of courses and in a mix of different categories, American Studies provides students with a deep understanding of the many forces and ideas that shape America. 
+American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance and music.
+
+We do not treat these topics as discrete categories, but instead explore their relationships to each other. For instance, we look at ideas about race and class embedded in national symbols and ideas. Through a variety of courses and in a mix of different categories, American Studies provides students with a deep understanding of the many forces and ideas that shape America. 
 
 ## Academic Offerings
 
@@ -23,6 +25,6 @@ For more information, please see the [Undergraduate Bulletin](http://bulletin.te
 
 ## For Minors
 
-Minors take 6 courses in American Studies, at least 3 of which must be from three different American Studies core areas. Most students find a minor can be accommodated within their regular program.
+Minors take six courses in American Studies, at least three of which must be from three different American Studies core areas. Most students find a minor can be accommodated within their regular program.
 
 Minors in American Studies are particularly useful in journalism, business, education and those fields that are served by creative thinking that draws inspiration from more than one area.
