@@ -6,11 +6,11 @@ baseurl: /american-studies
 
 # Program Information
 # Short tagline for tweets (<100 characters)
-tagline: This is our life's work
+tagline: Explore patterns and connections in U.S. life.
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Where better to study America than its birthplace? Explore the rich complexity of American culture while honing the critical thinking, writing and analytical skills necessary for any job.'
 # List of related keywords for search engines
-keywords: highered, college, university, philadelphia, Temple
+keywords: American culture, American society, American history, American politics
 
 # Address
 address:
