@@ -3,6 +3,8 @@
 title: American Studies
 # Subdirectory (with / at only at beginning)
 baseurl: /american-studies
+# Production Site URL (without / at beginning)
+url: https://www.cla.temple.edu/american-studies
 
 # Program Information
 # Short tagline for tweets (<100 characters)
