@@ -16,7 +16,7 @@ We do not treat these topics as discrete categories, but instead explore their r
 
 ## Program Highlights
 
-The program offers student internship opportunities and other hands-on kinds of learning at a variety of cultural institutions in Philadelphia and the Delaware Valley. American Studies courses are challenging and thought-provoking and many of them are cross-listed with the Temple University Honors Program. The major program stresses development of reading, writing and analytical skills that are necessary for successful careers in a range of professional fields.
+The program offers student internship opportunities and other hands-on kinds of learning at a variety of cultural institutions in Philadelphia and the Delaware Valley. American Studies courses are challenging and thought-provoking and many of them are cross-listed with the [Temple University Honors Program](http://honors.temple.edu/). The major program stresses development of reading, writing and analytical skills that are necessary for successful careers in a range of professional fields.
 
 ## Curriculum
 
