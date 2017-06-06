@@ -7,7 +7,7 @@ American Studies is statically generated with [Jekyll](https://jekyllrb.com) and
 | Links|  |
 | --- | --- |
 | Develpment Environment | https://develop.cla.temple.edu/american-studies/ |
-| Production Environment |  |
+| Production Environment | https://www.cla.temple.edu/american-studies/ |
 
 ## Content Structure
 
