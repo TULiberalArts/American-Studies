@@ -5,6 +5,9 @@ title: American Studies
 baseurl: /american-studies
 # Production Site URL (without / at beginning)
 url: https://www.cla.temple.edu/american-studies
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+
 
 # Program Information
 # Short tagline for tweets (<100 characters)
