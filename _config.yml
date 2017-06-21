@@ -3,8 +3,6 @@
 title: American Studies
 # Subdirectory (with / at only at beginning)
 baseurl: /american-studies
-# Production Site URL (without / at beginning)
-url: https://www.cla.temple.edu/american-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
