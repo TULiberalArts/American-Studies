@@ -6,31 +6,39 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Jay Lockenour  
+   909 Gladfelter Hall  
+   [(215) 204-7437](tel:2152047437)  
+   [Jay.lockenour@temple.edu](mailto:Jay.lockenour@temple.edu)  
+   
+   ___
+   
+   **Director of Undergraduate Studies:**  
+   Rita Krueger  
+   919 Gladfelter Hall   
+   [Rita.krueger@temple.edu](mailto:Rita.krueger@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Maggie Cogswell  
+   1008A Gladfelter Hall   
+   [(215) 204-9209](tel:2152049209)  
+   [Maggie.cogswell@temple.edu](mailto:Maggie.cogswell@temple.edu)  
+   
+   ___
 
-  <hr>
+   **Coordinators:**  
+   Djuna Witherspoon  
+   910 Gladfelter Hall    
+   [(215) 204-4997](tel:2152044997)   
+   [djuna@temple.edu](mailto:djuna@temple.edu)  
 
-  **Chair:** <br/>
-  Katherine Henry<br>
-  1042 Anderson Hall<br>
-  [(215) 204-7516](tel:2152047516)<br>
-  [khenry@temple.edu](mailto:khenry@temple.edu)<br>
-
-  <hr>
-
-  **Undergraduate (Advisor) Chair:** <br/>
-  Gabriel Wettach<br>
-  1030 Anderson Hall<br>
-  [(215) 204-8510](tel:2152048510)<br>
-  [gabe@temple.edu](mailto:gabe@temple.edu)<br>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Stephanie Morawski<br>
-  1041 Anderson Hall<br>
-  [(215) 204-8516](tel:2152048516)<br>
-  [morawski@temple.edu](mailto:morawski@temple.edu)<br>
+   Vangeline Campbell  
+   911 Gladfelter Hall    
+   [(215) 204-7839](tel:2152047839)  
+   [vcambel@temple.edu](mailto:vcambel@temple.edu)
 ---
 
 American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance and music.
