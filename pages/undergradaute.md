@@ -1,11 +1,11 @@
 ---
 title: Undergraduate
-meta-keywords: american studies, bachelors degree, minor
+meta-keywords: 'american studies, bachelors degree, minor'
 permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Jay Lockenour  
    909 Gladfelter Hall  
@@ -44,6 +44,8 @@ sidebar-content: > #
 American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance and music.
 
 We do not treat these topics as discrete categories, but instead explore their relationships to each other. For instance, we look at ideas about race and class embedded in national symbols and ideas. Through a variety of courses and in a mix of different categories, American Studies provides students with a deep understanding of the many forces and ideas that shape America. 
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic Offerings
 
