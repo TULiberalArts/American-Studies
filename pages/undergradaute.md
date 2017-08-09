@@ -39,6 +39,7 @@ sidebar-content: |
    911 Gladfelter Hall    
    [(215) 204-7839](tel:2152047839)  
    [vcambel@temple.edu](mailto:vcambel@temple.edu)
+meta-description: "Our undergraduate offerings include a BA and minor in American Studies and a minor in Asian  \t  \tAmerican studies."
 ---
 
 American Studies is a broad-based interdisciplinary program that explores the rich complexity of American culture and American lives. Courses focus on national myths and everyday realities, race and ethnicity, work, technology, media and popular culture, architecture and city planning, and the production and consumption of art forms like photography, film, dance and music.
