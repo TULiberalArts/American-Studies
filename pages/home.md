@@ -1,7 +1,9 @@
 ---
 title: Home
-meta-description: 100 or so words
-meta-keywords: american studies, U.S. life, culture
+meta-description: >-
+  American Studies is a broad-based interdisciplinary program that explores the
+  rich complexity   of American culture and American lives.
+meta-keywords: 'american studies, U.S. life, culture'
 permalink: /
 layout: home
 feature: true
