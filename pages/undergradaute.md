@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'american studies, bachelors degree, minor'
 permalink: /undergraduate/
 layout: page
+keywords: 'american studies, bachelors degree, minor'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
