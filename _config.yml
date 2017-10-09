@@ -68,7 +68,7 @@ google_tag_manager: GTM-58ZL5B
 faculty-feed: https://liberalarts.temple.edu/profiles/american-studies/csv
 events-feed: https://liberalarts.temple.edu/events/american-studies/csv
 news-feed: https://liberalarts.temple.edu/news/american-studies/csv
-articles-feed: https://liberalarts.temple.edu/news/american-studies/csv
+articles-feed: https://liberalarts.temple.edu/articles/american-studies/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/american-studies/csv
 
 # Development Config
