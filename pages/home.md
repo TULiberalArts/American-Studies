@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 description: >-
   American Studies is a broad-based interdisciplinary program that explores the
   rich complexity   of American culture and American lives.
