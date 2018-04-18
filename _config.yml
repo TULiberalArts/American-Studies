@@ -3,6 +3,7 @@
 title: American Studies
 # Subdirectory (with / at only at beginning)
 baseurl: /american-studies
+url: https://www.cla.temple.edu/american-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
@@ -58,7 +59,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/american-studies
-program_events: https://events.temple.edu/department/american-studies 
+program_events: https://events.temple.edu/department/american-studies
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
