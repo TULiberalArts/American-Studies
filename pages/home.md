@@ -24,3 +24,5 @@ American Studies explores patterns and connections in U.S. life. We look at the 
 - [Bachelor of Arts in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/ba-american-studies/)
 - [Minor in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
 - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/asian-american-studies-minor/)
+
+___
