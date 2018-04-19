@@ -3,7 +3,8 @@ title: Undergraduate
 permalink: /undergraduate/
 layout: page
 keywords: 'american studies, bachelors degree, minor'
-description: >- Our undergraduate offerings include a BA and minor in American Studies and a minor in Asian American studies.
+description: >-
+  Our undergraduate offerings include a BA and minor in American Studies and a minor in Asian American studies.
 published: true
 sidebar: true
 sidebar-content: |
