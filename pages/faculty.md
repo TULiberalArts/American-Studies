@@ -1,7 +1,8 @@
 ---
 title: Faculty
 permalink: /faculty/
-layout: faculty2
+layout: tla_faculty
+sidebar: false
 keywords: 'education'
 description: >-
   "Our faculty come from a range of departments — from English to History — to

@@ -1,8 +1,8 @@
 ---
 title: Graduate
 permalink: /graduate/
-layout: page
+layout: tla_page
 keywords: ''
 description: >-
-published: true
+published: false
 ---

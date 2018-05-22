@@ -1,7 +1,8 @@
 ---
 title: Next Stops
 permalink: /next-stops/
-layout: page
+layout: tla_page
+sidebar: false
 keywords: 'visit, transfer, liberal arts'
 description: >-
   "American Studies stresses the development of advanced-level reading, writing
