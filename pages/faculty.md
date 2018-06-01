@@ -1,13 +1,15 @@
 ---
-title: Faculty
-permalink: /faculty/
+# global predefined variables
 layout: tla_faculty
-sidebar: false
-keywords: 'education'
+permalink: /faculty/
+published: true
+# meta-data variables
+title: Faculty
 description: >-
   "Our faculty come from a range of departments — from English to History — to
   provide you with a well-rounded, interdisciplinary education."
-published: true
+  keywords: 'education'
+# custom variables
+sidebar: false
 ---
-Our faculty come from a range of departments — from English to History — to
-provide you with a well-rounded, interdisciplinary education.
+Our faculty come from a range of departments — from English to History — to provide you with a well-rounded, interdisciplinary education.
