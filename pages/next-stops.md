@@ -1,13 +1,17 @@
 ---
-title: Next Stops
-permalink: /next-stops/
+# global predefined variables
 layout: tla_page
-sidebar: false
+permalink: /next-stops/
+published: true
+# meta-data variables
+title: Next Stops
 keywords: 'visit, transfer, liberal arts'
 description: >-
   "American Studies stresses the development of advanced-level reading, writing
    and analytical skills that are necessary for successful careers in various fields."
-published: true
+keywords: 'visit, transfer, liberal arts'
+# custom variables
+sidebar: false
 ---
 From business to law to journalism and everything in between, your options as an American Studies degree or minor graduate are many. Whether you intend to immediately begin your [career](#careers) or continue onto graduate school first, your Temple University education will help you get to where you want to be. Still need to learn more? Come [visit](#visit-us) us today and [apply](#apply) to the program as soon as you’re ready.
 
