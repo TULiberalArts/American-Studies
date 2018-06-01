@@ -1,46 +1,16 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'american studies, bachelors degree, minor'
+published: true
+# meta-data variables
+title: Undergraduate
 description: >-
   Our undergraduate offerings include a BA and minor in American Studies and a minor in Asian American studies.
-published: true
+keywords: 'american studies, bachelors degree, minor'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Jay Lockenour  
-   909 Gladfelter Hall  
-   [(215) 204-7437](tel:2152047437)  
-   [Jay.lockenour@temple.edu](mailto:Jay.lockenour@temple.edu)  
-   
-   ___
-   
-   **Director of Undergraduate Studies:**  
-   Rita Krueger  
-   919 Gladfelter Hall   
-   [Rita.krueger@temple.edu](mailto:Rita.krueger@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Maggie Cogswell  
-   1008A Gladfelter Hall   
-   [(215) 204-9209](tel:2152049209)  
-   [Maggie.cogswell@temple.edu](mailto:Maggie.cogswell@temple.edu)  
-   
-   ___
-
-   **Coordinators:**  
-   Djuna Witherspoon  
-   910 Gladfelter Hall    
-   [(215) 204-4997](tel:2152044997)   
-   [djuna@temple.edu](mailto:djuna@temple.edu)  
-
-   Vangeline Campbell  
-   911 Gladfelter Hall    
-   [(215) 204-7839](tel:2152047839)  
-   [vcambel@temple.edu](mailto:vcambel@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 Do you know America as well as you think you do? Temple University’s [undergraduate American Studies degree](#ba-in-american-studies) will help you dispel national myths and find the truth from the first inklings of revolution to the cultural, societal political and artistic issues of today. Looking to study America without majoring in it? You can also get an American Studies [minor](#minor-in-american-studies) by taking just six courses from the program. Either way, you’ll learn about our great nation just minutes from where it all began at Independence Hall right here in Philadelphia.
 
