@@ -6,7 +6,8 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-  Our undergraduate offerings include a BA and minor in American Studies and a minor in Asian American studies.
+  Earn an undergraduate American Studies degree or minor at Temple University's College of 
+  Liberal Arts in Philadelphia, just minutes from where our nation began. 
 keywords: 'american studies, bachelors degree, minor'
 # custom variables
 sidebar: true
