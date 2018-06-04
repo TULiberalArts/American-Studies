@@ -7,8 +7,8 @@ published: true
 title: Next Stops
 keywords: 'visit, transfer, liberal arts'
 description: >-
-  "American Studies stresses the development of advanced-level reading, writing
-   and analytical skills that are necessary for successful careers in various fields."
+  Learn about your career options with a degree in American Studies, visit us,
+  learn about transfer options, and apply to the College of Liberal Arts at Temple University.
 keywords: 'visit, transfer, liberal arts'
 # custom variables
 sidebar: false
