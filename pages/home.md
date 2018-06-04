@@ -3,8 +3,8 @@ title: Home
 permalink: /
 layout: tla_home
 description: >-
-  American Studies is a broad-based interdisciplinary program that explores the
-  rich complexity   of American culture and American lives.
+  American Studies at Temple University looks at patterns and connections in U.S. life,
+  exploring themes such as labor, mobility, migration, art, place, race, and gender.
 keywords: 'american studies, U.S. life, culture'
 feature: true
 feature-title: Study Where it All Began
