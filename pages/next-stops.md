@@ -11,7 +11,6 @@ description: >-
   learn about transfer options, and apply to the College of Liberal Arts at Temple University.
 keywords: 'visit, transfer, liberal arts'
 # custom variables
-sidebar: false
 ---
 From business to law to journalism and everything in between, your options as an American Studies degree or minor graduate are many. Whether you intend to immediately begin your [career](#careers) or continue onto graduate school first, your Temple University education will help you get to where you want to be. Still need to learn more? Come [visit](#visit-us) us today and [apply](#apply) to the program as soon as you’re ready.
 
