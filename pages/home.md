@@ -11,22 +11,19 @@ description: >-
 keywords: 'american studies, U.S. life, culture'
 # custom variables
 feature: true
-feature-title: Study Where it All Began
+feature-title: 
 feature-image: media/hero_bg@3x.png
 feature-body: >-
-  Where better to study America than its birthplace? Our students explore the
-  rich complexity of American culture while honing the critical thinking,
-  writing and analytical skills necessary for any job. This is a broad-based
-  interdisciplinary program that utilizes some of our best English and History
-  faculty, making it the perfect major for someone with interest in both.
 promotion-table: true
 ---
+## Study Where It All Began
+Where better to study America than its birthplace—Philadelphia? Our students explore the rich complexity of American culture while honing the critical thinking, writing and analytical skills necessary for any job. This is a broad-based interdisciplinary program that utilizes some of our best English and History faculty, making it the perfect major for someone with interest in both.
 
-American Studies explores patterns and connections in U.S. life. We look at the big themes, such as labor, mobility, migration, art, place, race, gender and play. In the courses on social change, art and work, for instance, we examine how Americans think, talk and express ideas in song, stories and photographs and how these and other themes contribute to individual, family and community life. American Studies offers a lively way of understanding ever-changing and always contested values, looking at the politics of American culture through a variety of lenses.
+American studies students explore patterns and connections in U.S. life. They look at the big themes, such as labor, mobility, migration, art, place, race, gender and play. In the courses on social change, art and work, for instance, students examine how Americans think, talk and express ideas in song, stories and photographs, and how these and other themes contribute to individual, family and community life. The American studies major and minors offer a lively way of understanding ever-changing and always contested values by looking at the politics of American culture through a variety of lenses.
 
 ## Academic Offerings
-- [Bachelor of Arts in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/ba-american-studies/)
-- [Minor in American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
+- [Bachelor of Arts in American Studies](https://www.temple.edu/academics/degree-programs/american-studies-major-la-amst-ba)
+- [Minor in American Studies](https://www.temple.edu/academics/degree-programs/american-studies-major-la-amst-ba)
 - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/asian-american-studies-minor/)
 
 ___
