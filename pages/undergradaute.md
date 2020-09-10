@@ -22,6 +22,6 @@ The program offers student internship opportunities and other hands-on kinds of 
 Learn More about the [BA in American Studies](https://www.temple.edu/academics/degree-programs/american-studies-major-la-amst-ba)
 
 ## Minor in American Studies
-Minors take six courses in American studies, at least three of which must be from three different American studies core areas. Most students find a minor can be accommodated within their regular program.
+Minors take six courses in American studies, at least three of which must be from three different American studies core areas. Most students find a minor can be accommodated within their regular program. American studies minors are particularly useful in journalism, business, education and those fields that are served by creative thinking that draw inspiration from more than one area.
 
-American studies minors are particularly useful in journalism, business, education and those fields that are served by creative thinking that draw inspiration from more than one area.
+Learn More about the [Minor in American Studies](https://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/minor-american-studies/)
