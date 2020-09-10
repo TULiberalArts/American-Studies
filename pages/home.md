@@ -23,7 +23,6 @@ American studies students explore patterns and connections in U.S. life. They lo
 
 ## Academic Offerings
 - [Bachelor of Arts in American Studies](https://www.temple.edu/academics/degree-programs/american-studies-major-la-amst-ba)
-- [Minor in American Studies](https://www.temple.edu/academics/degree-programs/american-studies-major-la-amst-ba)
 - [Minor in Asian American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/american-studies/asian-american-studies-minor/)
 
 ___
